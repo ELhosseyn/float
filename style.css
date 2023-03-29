@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: 250px;
+    margin-top: 150px;
+
+}
+
+.items {
+    width: 20%;
+    height: 100%;
+    background-color: #f9f9f9;
+    float: left;
+    margin-left: 4%;
+
+}
+
+.img {
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+.items-center {
+    text-align: center;
+}
